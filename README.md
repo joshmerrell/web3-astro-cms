@@ -1,1 +1,1 @@
-# Josh Merrell
+# DESN 468 Astro CMS
